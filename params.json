@@ -1,0 +1,1 @@
+{"name":"Stringbuffer-logger","body":"# StringBuffer-logger\r\n\r\nStringBuffer-based logger for unit tests. Is not applicable to use in production code due to memory overuse.","tagline":"StringBuffer-based logger","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
